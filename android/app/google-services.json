@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613071955176",
+    "project_id": "tv-indonesia-dd32f",
+    "storage_bucket": "tv-indonesia-dd32f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613071955176:android:b73280111b09cb745d155d",
+        "android_client_info": {
+          "package_name": "com.example.tv_indonesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613071955176-v27pogfmiafkf96bvu5k64k611s7a18v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGQjAMWjBrTQK80L-PzS4zVyqz78rjbo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613071955176-v27pogfmiafkf96bvu5k64k611s7a18v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
