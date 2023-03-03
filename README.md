@@ -1,4 +1,4 @@
-# tv_indonesia
+# Harap mencantumkan credit, apabila anda ingin mengeubah atau mempublish aplikasi ini dengan nama lain!
 
 A new Flutter project.
 
